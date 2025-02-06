@@ -1,1 +1,2 @@
 # TreasureCalculatorApp
+TRPGソードワールド2.5のトレジャー強化計算ツール
